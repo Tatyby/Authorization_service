@@ -1,0 +1,7 @@
+version: "1"
+
+services:
+  app3:
+    image: 'myapp78:la'
+    ports:
+      - '8080'
