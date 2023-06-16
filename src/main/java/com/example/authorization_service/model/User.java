@@ -1,4 +1,4 @@
-package com.example.authorization_service.Model;
+package com.example.authorization_service.model;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;

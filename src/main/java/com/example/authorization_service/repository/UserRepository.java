@@ -1,8 +1,7 @@
 package com.example.authorization_service.repository;
 
 import com.example.authorization_service.Authorities;
-import com.example.authorization_service.Model.User;
-import lombok.AllArgsConstructor;
+import com.example.authorization_service.model.User;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
